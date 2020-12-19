@@ -5,7 +5,7 @@
             <a href="#contact">Contact</a>
         </div>
         <img alt="Moh3A's profile picture" src="../assets/portfolio_pic.png">
-        <p>ABOUT US PAGE</p>
+        <p>ABOUT PAGE</p>
     </div>
 </template>
 
